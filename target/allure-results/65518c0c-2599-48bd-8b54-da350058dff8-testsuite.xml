@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504930661334" stop="1504930661885" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1504930661665" stop="1504930661698" status="passed">
+            <name>"TC-01.01 (2 - Prime number)["TC-01.01 (2 - Prime number),2, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661705" stop="1504930661707" status="passed">
+            <name>"TC-01.02 (3 - Prime number)["TC-01.02 (3 - Prime number),3, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661710" stop="1504930661713" status="passed">
+            <name>"TC-01.03 (4 - Not prime number)["TC-01.03 (4 - Not prime number),4, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661716" stop="1504930661718" status="passed">
+            <name>"TC-01.04 (5 - Prime number)["TC-01.04 (5 - Prime number),5, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661721" stop="1504930661723" status="passed">
+            <name>"TC-01.05 (6 - Not prime number)["TC-01.05 (6 - Not prime number),6, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661726" stop="1504930661728" status="passed">
+            <name>"TC-01.06 (7 - Prime number)["TC-01.06 (7 - Prime number),7, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661731" stop="1504930661733" status="passed">
+            <name>"TC-01.07 (8 - Not prime number)["TC-01.07 (8 - Not prime number),8, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661736" stop="1504930661738" status="passed">
+            <name>"TC-01.08 (9 - Not prime number)["TC-01.08 (9 - Not prime number),9, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661741" stop="1504930661743" status="passed">
+            <name>"TC-01.09 (10 - Not prime number)["TC-01.09 (10 - Not prime number),10, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661746" stop="1504930661748" status="passed">
+            <name>"TC-01.10 (11 - Prime number)["TC-01.10 (11 - Prime number),11, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661750" stop="1504930661752" status="passed">
+            <name>"TC-01.11 (12 - Not prime number)["TC-01.11 (12 - Not prime number),12, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661755" stop="1504930661757" status="passed">
+            <name>"TC-01.12 (13 - Prime number)["TC-01.12 (13 - Prime number),13, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661760" stop="1504930661762" status="passed">
+            <name>"TC-01.13 (14 - Not prime number)["TC-01.13 (14 - Not prime number),14, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661765" stop="1504930661767" status="passed">
+            <name>"TC-01.14 (15 - Not prime number)["TC-01.14 (15 - Not prime number),15, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661769" stop="1504930661771" status="passed">
+            <name>"TC-01.15 (16 - Not prime number)["TC-01.15 (16 - Not prime number),16, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661775" stop="1504930661778" status="passed">
+            <name>"TC-01.16 (17 - Prime number)["TC-01.16 (17 - Prime number),17, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661781" stop="1504930661783" status="passed">
+            <name>"TC-01.17 (18 - Not prime number)["TC-01.17 (18 - Not prime number),18, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661786" stop="1504930661788" status="passed">
+            <name>"TC-01.18 (19 - Prime number)["TC-01.18 (19 - Prime number),19, true"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661791" stop="1504930661793" status="passed">
+            <name>"TC-01.19 (20 - Not prime number)["TC-01.19 (20 - Not prime number),20, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504930661796" stop="1504930661798" status="passed">
+            <name>"TC-01.20 (21 - Not prime number)["TC-01.20 (21 - Not prime number),21, false"]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="core.PrimeNumberCheckerTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="gnvl.local"/>
+                <label name="thread" value="11539@gnvl.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
